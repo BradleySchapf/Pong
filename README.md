@@ -1,18 +1,9 @@
-## Getting Started
+## Pong
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is Pong made in Java using JFrame, and the built in graphics library.
 
-## Folder Structure
+![Screenshot 2024-02-07 004216](https://github.com/BradleySchapf/Pong/assets/102550421/f0213be9-4714-4e19-b0de-8553fb2d1927)
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+https://github.com/BradleySchapf/Pong/assets/102550421/535e57c4-b6e1-4d38-982b-76a7e7fb7cb9
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
